@@ -1,4 +1,3 @@
-Berikut deskripsi menarik dan profesional untuk repositori **Smart-Soil-Monitoring-IoT-Based-NPK-Detection-with-Python** di GitHub:  
 
 ---
 
