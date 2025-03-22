@@ -22,8 +22,7 @@ Selamat datang di **Smart Soil Monitoring**! 🎉 Proyek ini berfokus pada **pem
 ## 🔧 **Cara Menggunakan**  
 1️⃣ **Clone repositori ini ke lokal Anda**  
    ```bash
-   git clone https://github.com/Smart-Soil-Monitoring-IoT-Based-NPK-Detection-with-Python
-/Smart-Soil-Monitoring-IoT-NPK.git
+   git clone https://github.com/AbdulFatahAmrulloh/Smart-Soil-Monitoring-IoT-NPK.git
    ```  
 2️⃣ **Pasang sensor NPK pada ESP32/Arduino dan sambungkan ke komputer**  
 3️⃣ **Jalankan skrip utama untuk membaca data sensor**  
@@ -50,5 +49,4 @@ Kami terbuka untuk pengembangan lebih lanjut! Jika Anda memiliki ide atau ingin 
 
 ---
 
-Pastikan Anda mengganti `https://github.com/Smart-Soil-Monitoring-IoT-Based-NPK-Detection-with-Python
-/Smart-Soil-Monitoring-IoT-NPK.git` dengan URL repositori yang sesuai. Semoga proyek ini bermanfaat bagi inovasi pertanian cerdas! 🚀🌾
+Pastikan Anda mengganti `https://github.com/AbdulFatahAmrulloh/Smart-Soil-Monitoring-IoT-NPK.git` dengan URL repositori yang sesuai. Semoga proyek ini bermanfaat bagi inovasi pertanian cerdas! 🚀🌾
